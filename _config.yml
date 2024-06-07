@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title_separator          : "-"
-title                    : "Your Name / Site Title"
+title                    : "Pallavi Borkar"
 name                     : &name "Pallavi Borkar"
 description              : &description "personal description"
 url                      : https://palbor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
