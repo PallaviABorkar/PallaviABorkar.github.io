@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/whisperfuzz
 excerpt: 'This paper proposes the first white-box fuzzer that detects and locates timing channels in processors.'
 venue: 'USENIX Security 2024'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.usenix.org/system/files/sec24fall-prepub-227-borkar.pdf)'
+paperurl: '[https://www.usenix.org/system/files/sec24fall-prepub-227-borkar.pdf]'
 citation: 'Borkar, P., Chen, C., Rostami, M., Singh, N., Kande, R., Sadeghi, A.-R., … Rajendran, J. (2024). WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors.'
 ---
 
